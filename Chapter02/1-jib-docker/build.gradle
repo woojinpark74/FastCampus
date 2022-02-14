@@ -39,7 +39,7 @@ jib {
     image = 'adoptopenjdk/openjdk11:alpine-jre'
   }
   to {
-    image = '<Docker Hub Repository URL>'
+    image = '507058536517.dkr.ecr.ap-northeast-2.amazonaws.com/test'
     tags = ['1.0']
   }
 	container {
