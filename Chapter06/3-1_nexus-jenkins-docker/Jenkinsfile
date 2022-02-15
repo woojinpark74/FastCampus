@@ -1,6 +1,6 @@
 def mainDir="Chapter06/3-1_nexus-jenkins-docker"
 def region="ap-northeast-2"
-def nexusUrl=ec2-13-125-237-208.ap-northeast-2.compute.amazonaws.com:5000"
+def nexusUrl="ec2-13-125-237-208.ap-northeast-2.compute.amazonaws.com:5000"
 def repository="test"
 def deployHost="172.31.51.240"
 def jenkinsHost="172.31.43.156"
